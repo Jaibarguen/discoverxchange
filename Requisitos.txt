@@ -1,0 +1,21 @@
+Requisitos No Funcionales
+
+Seguridad y Privacidad:
+Se requiere un sistema seguro para proteger los datos de los usuarios y sus transacciones.
+Implementación de cifrado SSL para la seguridad de las transacciones. 
+Políticas de privacidad claras y acceso seguro a la información del usuario.
+
+Usabilidad y Experiencia del Usuario: 
+Interfaz intuitiva y fácil de usar para una experiencia amigable con el usuario. 
+Compatibilidad con diferentes dispositivos y navegadores para acceder a la plataforma. 
+Tiempos de carga rápidos y capacidad de respuesta para una experiencia fluida. 
+-----------------------------------------------------------------------------------------------------
+Requisitos Funcionales
+
+Registro y Autenticación: Los usuarios podrán registrarse con información básica y acceder a la plataforma mediante un sistema de autenticación segura.
+ 
+Proceso de Compra y Venta: Sistema de carrito de compras para permitir la selección de múltiples productos. Proceso de pago seguro y métodos de pago variados (tarjeta de crédito, transferencia bancaria, etc.).
+
+Gestión de Productos: Capacidad para que los usuarios agreguen productos para la venta. Visualización detallada de los productos con imágenes, descripciones y precios.
+
+Funcionalidades Adicionales: Ofrecer cupones de descuento o tickets promocionales. Categorización efectiva de productos para facilitar la búsqueda.
